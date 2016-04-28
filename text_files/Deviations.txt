@@ -1,0 +1,17 @@
+There are following deviations in the actual game with respect to design document :
+
+1. The GUI of the game is not similar to the proposed design
+
+2. The actual game is implemented for one ball only
+
+3. The hold power is limited to one player
+
+4. The paddle's curvature physics is implemented but not visible
+
+5. The random values in the computer player algorithms has been replaced with modifications in frames taken by computer to track.
+
+6. Computer players are running locally on all the machines
+
+7. In Network Communication, mainly player's own paddle is exchanged
+
+8. A particular player's ball is exchanged to maintain synchronization 
